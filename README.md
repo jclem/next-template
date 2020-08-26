@@ -1,6 +1,6 @@
 # Next.js Template
 
-This repository is q template for [Next.js](https://nextjs.org) applications.
+This repository is a template for [Next.js](https://nextjs.org) applications.
 It includes a simple development setup including configuration for:
 
 - [TypeScript](https://www.typescriptlang.org)
