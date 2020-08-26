@@ -8,6 +8,7 @@ It includes a simple development setup including configuration for:
 - [ESLint](https://eslint.org)
 - [Prettier](https://prettier.io)
 - Import and nesting plugins for [PostCSS](https://postcss.org)
+- A reasonable [VSCode](https://code.visualstudio.com) workspace configuration
 
 Additionally, it configures a pre-commit hook using
 [Husky](https://github.com/typicode/husky) to help enforce code formatting,
