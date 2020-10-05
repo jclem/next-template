@@ -16,6 +16,6 @@ ESLint, and passing TypeScript compilation.
 
 ## Setup
 
-1. Clone this repository or [generate a new repository from it](https://github.com/jclem/next-template/generate) and clone that.
+1. Clone this repository or [generate a new repository from it](https://github.com/jclem/template-next.js/generate) and clone that.
 1. Install dependencies: `npm install`.
 1. Start the development server: `npm run dev`.
